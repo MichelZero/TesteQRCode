@@ -1,0 +1,2 @@
+# TesteQRCode
+TesteQRCode
